@@ -14,7 +14,10 @@ library then config.php
 
 got data folder to upload or create with the reference to the My SQL customer data and Master data and the Master User data to my SQL
 
+
 3rd step
+
+unzip the src.zip folder
 
 npm install 
 
